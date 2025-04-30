@@ -1,0 +1,13 @@
+/* Custom styles */
+.hero-bg {
+    background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%);
+}
+
+.nav-link:hover {
+    color: #3b82f6;
+}
+
+.active {
+    color: #3b82f6;
+    font-weight: 600;
+}
