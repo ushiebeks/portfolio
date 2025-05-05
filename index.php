@@ -13,10 +13,10 @@ include('./includes/header.php');
                     class="bg-blue-600 hover:bg-blue-700 text-white px-8 py-3 rounded-full text-lg font-semibold transition duration-300 inline-block mr-4">
                     Hire Me
                 </a>
-                <a href="#"
+                <a href="files/resume.pdf" download="Innocent_Ushie_Resume.pdf"
                     class="border-2 border-blue-600 text-blue-600 hover:bg-blue-600 hover:text-white px-8 py-3 rounded-full text-lg font-semibold transition duration-300 inline-block">
                     Download Resume
-                </a>
+                </a>    
             </div>
             <div class="md:w-1/2 flex justify-center">
                 <img src="images/inno.png" alt="Innocent Ushie"
@@ -39,7 +39,7 @@ include('./includes/header.php');
                 <p class="text-gray-600 mb-6 leading-relaxed">
                     I'm Innocent Ushie, a passionate software developer and web designer with over 7 months of
                     experience
-                    creating beautiful, functional, and user-friendly websites. I specialize in front-end
+                    creating and managing beautiful, functional, and user-friendly websites. I specialize in front-end
                     development with a focus on responsive design and performance optimization.
                 </p>
                 <div class="grid grid-cols-1 md:grid-cols-2 gap-6 mb-8">
@@ -369,7 +369,7 @@ include('./includes/header.php');
     <div class="container mx-auto px-6">
         <div class="flex flex-col md:flex-row justify-between items-center">
             <div class="mb-6 md:mb-0">
-                <div class="text-2xl font-bold mb-2">INNOCENT USHIE</div>
+                <div class="text-2xl font-bold mb-2">Innocent Uhie</div>
                 <p class="text-gray-400">Software Developer & web Designer</p>
             </div>
             <div class="flex space-x-6">
